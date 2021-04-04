@@ -57,6 +57,345 @@
     }
   },
   {
+    "Referencia": "10401225",
+    "Carro": "22",
+    "ReferenciaArbol": "10401229",
+    "ReferenciaTripode": "5087300",
+    "ReferenciaJunta": "10317480",
+    "Tulipa": {
+      "Referencia": "10399446",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": null,
+        "ReferenciaFremo": null,
+        "ReferenciaTorica": null
+      },
+      "op50": {
+        "ReferenciaInserto": "1077306",
+        "ReferenciaResorte": null,
+        "ReferenciaDeflector": null,
+        "ReferenciaCasquillo": null,
+        "ReferenciaTorica": null
+      }
+    },
+    "Damper": null,
+    "LadoRueda": {
+      "ReferenciaFuelle": "10300777",
+      "ReferenciaBamda": "10207069",
+      "ReferenciaCollarin": "1073791"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10090462",
+      "ReferenciaBamda": "1078029",
+      "ReferenciaCollarin": "1077651"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": "743"
+      },
+      "Tulipa": {
+        "Peso": "90g",
+        "Referencia": "743"
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1078002",
+      "LadoCaja": "1077300",
+      "Tulipa": "1072813",
+      "Rodamiento": null
+    }
+  },
+  {
+    "Referencia": "10383381",
+    "Carro": "18",
+    "ReferenciaArbol": "10369277",
+    "ReferenciaTripode": "10413387",
+    "ReferenciaJunta": "2081266",
+    "Tulipa": {
+      "Referencia": "1062201",
+      "op40": {
+        "ReferenciaDeflector": "1078802",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "1072211",
+        "ReferenciaResorte": "1078804",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "1078800",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "1071200",
+      "ReferenciaBamda": "1071211",
+      "ReferenciaCollarin": "1078736"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "1072209",
+      "ReferenciaBamda": "1078028",
+      "ReferenciaCollarin": "1078735"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "50g",
+        "Referencia": "731"
+      },
+      "LadoCaja": {
+        "Peso": "40g",
+        "Referencia": "720"
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": "720"
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1071815",
+      "LadoCaja": "1072205",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10383379",
+    "Carro": "18",
+    "ReferenciaArbol": "10369181",
+    "ReferenciaTripode": "10413387",
+    "ReferenciaJunta": "2081266",
+    "Tulipa": {
+      "Referencia": "1062201",
+      "op40": {
+        "ReferenciaDeflector": "1078802",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "1072211",
+        "ReferenciaResorte": "1078804",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "1071200",
+      "ReferenciaBamda": "1071211",
+      "ReferenciaCollarin": "1078736"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "1072209",
+      "ReferenciaBamda": "1078028",
+      "ReferenciaCollarin": "1078735"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "50g",
+        "Referencia": "731"
+      },
+      "LadoCaja": {
+        "Peso": "40g",
+        "Referencia": "720"
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": "720"
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1071815",
+      "LadoCaja": "1072205",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "6087734",
+    "Carro": "19",
+    "ReferenciaArbol": "1036909",
+    "ReferenciaTripode": "4086626",
+    "ReferenciaJunta": "2087695",
+    "Tulipa": {
+      "Referencia": "",
+      "op40": {
+        "ReferenciaDeflector": "",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "10776608",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "1077870",
+      "ReferenciaBamda": "1077868",
+      "ReferenciaCollarin": "1077954"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10776606",
+      "ReferenciaBamda": "1077957",
+      "ReferenciaCollarin": "1077956"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "150g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "120g",
+        "Referencia": "750"
+      },
+      "Tulipa": {
+        "Peso": "g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1077869",
+      "LadoCaja": "1077900",
+      "Tulipa": "",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "6087735",
+    "Carro": "19",
+    "ReferenciaArbol": "1046600",
+    "ReferenciaTripode": "4086626",
+    "ReferenciaJunta": "2087695",
+    "Tulipa": {
+      "Referencia": "",
+      "op40": {
+        "ReferenciaDeflector": "",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "10776608",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "1077870",
+      "ReferenciaBamda": "1077868",
+      "ReferenciaCollarin": "1077954"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10776606",
+      "ReferenciaBamda": "1077957",
+      "ReferenciaCollarin": "1077956"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "150g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "120g",
+        "Referencia": "750"
+      },
+      "Tulipa": {
+        "Peso": "g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1077869",
+      "LadoCaja": "1077900",
+      "Tulipa": "",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "6087736",
+    "Carro": "19",
+    "ReferenciaArbol": "1046601",
+    "ReferenciaTripode": "4086626",
+    "ReferenciaJunta": "2087695",
+    "Tulipa": {
+      "Referencia": "",
+      "op40": {
+        "ReferenciaDeflector": "",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "10776608",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "1077870",
+      "ReferenciaBamda": "1077868",
+      "ReferenciaCollarin": "1077954"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10776606",
+      "ReferenciaBamda": "1077957",
+      "ReferenciaCollarin": "1077956"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "150g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "120g",
+        "Referencia": "750"
+      },
+      "Tulipa": {
+        "Peso": "g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1077869",
+      "LadoCaja": "1077900",
+      "Tulipa": "",
+      "Rodamiento": ""
+    }
+  },
+  {
     "Referencia": "6087737",
     "Carro": "19",
     "ReferenciaArbol": "1046602",
@@ -110,6 +449,348 @@
       "LadoRueda": "1077869",
       "LadoCaja": "1077900",
       "Tulipa": "",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10401520",
+    "Carro": "15",
+    "ReferenciaArbol": "10401423",
+    "ReferenciaTripode": "5087200",
+    "ReferenciaJunta": "10317505",
+    "Tulipa": {
+      "Referencia": "10389607",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "1078053",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "10342067",
+      "ReferenciaCollarin": "10032629"
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10267168",
+      "ReferenciaBamda": "1071113",
+      "ReferenciaCollarin": "10206718"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "1078054",
+      "ReferenciaBamda": "1078028",
+      "ReferenciaCollarin": "10206718"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": "743"
+      },
+      "Tulipa": {
+        "Peso": "82g",
+        "Referencia": "743"
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1073101",
+      "LadoCaja": "1072205",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10401414",
+    "Carro": "15",
+    "ReferenciaArbol": "10401418",
+    "ReferenciaTripode": "5087200",
+    "ReferenciaJunta": "10317505",
+    "Tulipa": {
+      "Referencia": "10389607",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "1078053",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10267168",
+      "ReferenciaBamda": "1071113",
+      "ReferenciaCollarin": "10206718"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "1078054",
+      "ReferenciaBamda": "1078028",
+      "ReferenciaCollarin": "10206718"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": "750"
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": "743"
+      },
+      "Tulipa": {
+        "Peso": "82g",
+        "Referencia": "743"
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1073101",
+      "LadoCaja": "1072205",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10402277",
+    "Carro": "22",
+    "ReferenciaArbol": "10402147",
+    "ReferenciaTripode": "5087602",
+    "ReferenciaJunta": "10317480",
+    "Tulipa": {
+      "Referencia": "10386732",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "10224101",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "10091087",
+      "ReferenciaCollarin": "10009493"
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10300777",
+      "ReferenciaBamda": "10207069",
+      "ReferenciaCollarin": "1073791"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10231723",
+      "ReferenciaBamda": "10206813",
+      "ReferenciaCollarin": "1073791"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": ""
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": ""
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1078002",
+      "LadoCaja": "1077858",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10402303",
+    "Carro": "22",
+    "ReferenciaArbol": "10402149",
+    "ReferenciaTripode": "5087602",
+    "ReferenciaJunta": "10317480",
+    "Tulipa": {
+      "Referencia": "10389393",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "10224101",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "10401630",
+      "ReferenciaCollarin": "10009493"
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10300777",
+      "ReferenciaBamda": "10207069",
+      "ReferenciaCollarin": "1073791"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10231723",
+      "ReferenciaBamda": "10206813",
+      "ReferenciaCollarin": "1073791"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": ""
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": ""
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1078002",
+      "LadoCaja": "1077858",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10402248",
+    "Carro": "22",
+    "ReferenciaArbol": "10402162",
+    "ReferenciaTripode": "5087602",
+    "ReferenciaJunta": "10317480",
+    "Tulipa": {
+      "Referencia": "10386731",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "10224101",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10300777",
+      "ReferenciaBamda": "10207069",
+      "ReferenciaCollarin": "1073791"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10231723",
+      "ReferenciaBamda": "10206813",
+      "ReferenciaCollarin": "1073791"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": ""
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": ""
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1078002",
+      "LadoCaja": "1077858",
+      "Tulipa": "1072813",
+      "Rodamiento": ""
+    }
+  },
+  {
+    "Referencia": "10402305",
+    "Carro": "22",
+    "ReferenciaArbol": "10402163",
+    "ReferenciaTripode": "5087602",
+    "ReferenciaJunta": "10317480",
+    "Tulipa": {
+      "Referencia": "10383572",
+      "op40": {
+        "ReferenciaDeflector": "1077880",
+        "ReferenciaRodamiento": "",
+        "ReferenciaFremo": "",
+        "ReferenciaTorica": ""
+      },
+      "op50": {
+        "ReferenciaInserto": "10224101",
+        "ReferenciaResorte": "",
+        "ReferenciaDeflector": "",
+        "ReferenciaCasquillo": "",
+        "ReferenciaTorica": ""
+      }
+    },
+    "Damper": {
+      "Referencia": "",
+      "ReferenciaCollarin": ""
+    },
+    "LadoRueda": {
+      "ReferenciaFuelle": "10300777",
+      "ReferenciaBamda": "10207069",
+      "ReferenciaCollarin": "1073791"
+    },
+    "LadoCaja": {
+      "ReferenciaFuelle": "10231723",
+      "ReferenciaBamda": "10206813",
+      "ReferenciaCollarin": "1073791"
+    },
+    "Grasas": {
+      "LadoRueda": {
+        "Peso": "20g",
+        "Referencia": ""
+      },
+      "LadoCaja": {
+        "Peso": "30g",
+        "Referencia": ""
+      },
+      "Tulipa": {
+        "Peso": "100g",
+        "Referencia": ""
+      }
+    },
+    "Circlips": {
+      "LadoRueda": "1078002",
+      "LadoCaja": "1077858",
+      "Tulipa": "1072813",
       "Rodamiento": ""
     }
   }
